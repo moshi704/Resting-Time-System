@@ -481,6 +481,4 @@ For issues, questions, or suggestions:
 **Built for Health. Designed for Productivity.**
 
 *Resting Time System © 2026*
-=======
-# Resting-Time-System
->>>>>>> a27a25658ac5d0e82a84e57e31b8cd158d42bc4e
+
