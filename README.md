@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resting Time System - Desktop Application
 
 A professional-grade desktop application designed to enforce healthy break intervals during extended device usage. Built with Python and Tkinter, featuring a modern, responsive interface and robust session management.
@@ -480,3 +481,6 @@ For issues, questions, or suggestions:
 **Built for Health. Designed for Productivity.**
 
 *Resting Time System © 2026*
+=======
+# Resting-Time-System
+>>>>>>> a27a25658ac5d0e82a84e57e31b8cd158d42bc4e
