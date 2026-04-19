@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Resting Time System - Desktop Application
 
 A professional-grade desktop application designed to enforce healthy break intervals during extended device usage. Built with Python and Tkinter, featuring a modern, responsive interface and robust session management.
@@ -309,13 +309,13 @@ chmod 644 ~/.resting_time_config.json
 - For at least 20 seconds
 
 ### During Breaks
-- ✅ Stand up and walk
-- ✅ Look out a window
-- ✅ Do eye exercises
-- ✅ Stretch your body
-- ❌ Don't check your phone
-- ❌ Don't read
-- ❌ Don't watch TV
+-  Stand up and walk
+-  Look out a window
+-  Do eye exercises
+-  Stretch your body
+-  Don't check your phone
+-  Don't read
+-  Don't watch TV
 
 ##  Privacy & Security
 
